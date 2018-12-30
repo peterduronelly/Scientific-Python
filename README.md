@@ -2,7 +2,7 @@
 Notebooks from CEU
 
 # Class 2.
-cover logical statements and control flow
+cover logical statements and control flow <br>
 do an example of simple web scraping
 learn an important feature of lists: comprehension
 do more exercises with lists and strings
